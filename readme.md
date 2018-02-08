@@ -1,6 +1,5 @@
 ## About project
 ============================
-hfdushiufahsdfuihaisudfhaiudfaiufdad
 
 ## Requirements
 * PHP 7
